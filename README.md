@@ -1,5 +1,7 @@
 # The Learning Stack Learner Record Store (LRS).
 
+[![Join the chat at https://gitter.im/LearningStack/ls_lrs](https://badges.gitter.im/LearningStack/ls_lrs.svg)](https://gitter.im/LearningStack/ls_lrs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
